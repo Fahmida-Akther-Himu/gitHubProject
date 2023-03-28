@@ -1,9 +1,9 @@
-package generic;
+package com.generic;
 
 public class Employee<T> {
-    private T name;
-    private T designation;
-    private T salary;
+    private final T name;
+    private final T designation;
+    private final T salary;
 
     public Employee(T name, T designation, T salary) {
         this.name = name;

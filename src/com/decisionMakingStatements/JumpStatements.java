@@ -1,4 +1,4 @@
-package decisionMakingStatements;
+package com.decisionMakingStatements;
 
 public class JumpStatements {
     public static void main(String[] args) {

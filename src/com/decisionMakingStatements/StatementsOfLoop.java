@@ -1,4 +1,4 @@
-package decisionMakingStatements;
+package com.decisionMakingStatements;
 
 public class StatementsOfLoop {
     public static void main(String[] args) {

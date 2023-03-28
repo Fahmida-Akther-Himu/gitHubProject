@@ -1,7 +1,7 @@
-package generic;
+package com.generic;
 
 public class Student <N> {
-    private N salary;
+    private final N salary;
 
     public Student(N salary) {
         this.salary = salary;
